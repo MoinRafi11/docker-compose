@@ -71,7 +71,7 @@ Docker Compose version v5.5.1
 
 ## Screenshot — Docker Compose Version
 
-![Docker Compose Version](64-docker-compose-intro/01-docker-compose-version.png)
+![Docker Compose Version](screenshots/01-docker-compose-version.png)
 
 > Modern Docker installations use the `docker compose` command as a Docker CLI plugin. The older `docker-compose` command with a hyphen is a legacy form.
 
@@ -114,7 +114,7 @@ The `web` service uses Nginx, while the `database` service uses PostgreSQL.
 
 ## Screenshot — Docker Compose YAML
 
-![Docker Compose YAML](64-docker-compose-intro/02-docker-compose-yaml.png)
+![Docker Compose YAML](screenshots/02-docker-compose-yaml.png)
 
 ---
 
@@ -658,7 +658,7 @@ Stop and remove services
 
 ## Screenshot — Docker Compose Commands
 
-![Docker Compose Commands](64-docker-compose-intro/03-docker-compose-commands.png)
+![Docker Compose Commands](screenshots/03-docker-compose-commands.png)
 
 ---
 
