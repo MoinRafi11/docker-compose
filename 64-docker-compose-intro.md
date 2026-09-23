@@ -114,7 +114,7 @@ The `web` service uses Nginx, while the `database` service uses PostgreSQL.
 
 ## Screenshot — Docker Compose YAML
 
-![Docker Compose YAML](screenshots/02-docker-compose-yaml.png)
+![Docker Compose YAML](screenshots/02-docker-compose-yml.png)
 
 ---
 
